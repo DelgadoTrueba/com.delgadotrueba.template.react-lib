@@ -6,6 +6,7 @@
 - chore: 🏗️ add webpack
 - chore: 🏗️ add react and react-dom peerDepencey
 - chore: 🏗️ webpack build multi-entrypoint
+- chore: 🏗️ add testing-library/react
 
 ### Create scaffolding #1
 
