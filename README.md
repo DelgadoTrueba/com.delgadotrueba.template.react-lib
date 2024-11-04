@@ -1,4 +1,4 @@
-# @delgadotrueba/prime-react-lib
+# @delgadotrueba/react-lib
 
 > description
 
@@ -34,7 +34,7 @@ npm publish
 Guide to use the Library
 
 ```
-npm install @delgadotrueba/prime-react-lib --save
+npm install @delgadotrueba/react-lib --save
 ```
 
 ## Import

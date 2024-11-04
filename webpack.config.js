@@ -14,7 +14,7 @@ module.exports = {
         publicPath: 'auto',
         clean: true,
         library: {
-            name: 'prime-react-lib-[name]',
+            name: 'react-lib-[name]',
             type: 'umd',
         },
     },

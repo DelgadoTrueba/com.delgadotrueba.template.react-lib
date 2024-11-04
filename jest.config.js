@@ -1,6 +1,6 @@
 /* eslint-disable */
 module.exports = {
-  displayName: 'prime-react-lib',
+  displayName: 'react-lib',
   preset: './jest.preset.js',
   testEnvironment: 'jsdom',
   transform: {
